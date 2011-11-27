@@ -9,6 +9,9 @@ gem 'sqlite3'
 
 # custom
 gem 'devise'
+# For Heroku
+# Doesn't work: gem 'activerecord-postgresql-adapter'
+gem 'pg'
 
 
 # Gems used only for assets and not required
